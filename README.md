@@ -1,8 +1,7 @@
-[![MasterHead](https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif)](https://github.com/MandarKelkarOfficial)
+
 <h1 align="center">Hi 👋, I'm Mandar Kelkar</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif">
-
+<img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandarkelkarofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mandarkelkarofficial" /> </p>
 
@@ -20,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/mandarkelkar_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandarkelkar_06" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mandar kelkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mandar kelkar" height="30" width="40" /></a>
-<a href="https://fb.com/mandar kelkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mandar kelkar" height="30" width="40" /></a>
 <a href="https://instagram.com/pirate_king2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pirate_king2004" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gød itachi gaming yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gød itachi gaming yt" height="30" width="40" /></a>
 <a href="https://discord.gg/[•^•I•T•A•C•H•I^•]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[•^•I•T•A•C•H•I^•]" height="30" width="40" /></a>
@@ -33,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mandarkelkarofficial&show_icons=true&locale=en" alt="mandarkelkarofficial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandarkelkarofficial&" alt="mandarkelkarofficial" /></p>>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandarkelkarofficial&" alt="mandarkelkarofficial" /></p>
