@@ -16,7 +16,7 @@
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MandarKelkarOfficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MandarKelkarOfficial&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MandarKelkarOfficial&icon=9&color=6)](https://visitcount.itsvg.in)
