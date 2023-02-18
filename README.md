@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif"/>
-🌱 I’m currently learning MongoDB, MySQL<br><br>💬 Ask me about Python, C, Html, CSS<br><br>📫 How to reach me mandarkelkar0@gmail.com<br><br>⚡ Fun fact I am Funny
+🌱 I’m currently learning MongoDB, MySQL, PostgreSQL<br><br>💬 Ask me about Python, C, Html, CSS<br><br>📫 How to reach me mandarkelkar0@gmail.com<br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
