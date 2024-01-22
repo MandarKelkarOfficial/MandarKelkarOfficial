@@ -14,8 +14,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MandarKelkarOfficial&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MandarKelkarOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@MandarKelkar_06)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MandarKelkarOfficial&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MandarKelkarOfficial&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MandarKelkarOfficial&icon=5&color=6)](https://visitcount.itsvg.in)
