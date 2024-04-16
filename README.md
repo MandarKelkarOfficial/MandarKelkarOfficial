@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/4vnwsm52yHcAAAAd/onepiece.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif"/>
 🔭 I’m currently working on Data Structures<br>🌱 I’m currently learning Web socket, Tenserflow, WebScrapping <br>💬 Ask me about Python, Databases and creating websites<br>⚡ Fun fact Did you know that the first computer programmer was a <br>      woman named Ada Lovelace? She wrote an algorithm for <br>      Charles Babbage's Analytical Engine in the 1800s,<br>      making her the first person to ever write code.
 
 
